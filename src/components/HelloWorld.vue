@@ -6,7 +6,7 @@
         <h1 class="display-2 font-weight-bold mb-3">
           Bienvenido##
         </h1>
-
+        <h2>RB20021, Luis Israel Ramos Barahona</h2>
         <p class="subheading font-weight-regular">
           Front End del sistema de tareas,<br> para utilizar como ejemplo en las practicas de despliegue.
           
